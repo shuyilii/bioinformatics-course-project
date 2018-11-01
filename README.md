@@ -1,5 +1,5 @@
-# bioinformatics-course-project
+It's a bioinformatics-course-project
 
-# Screening differentially expressed gene from gene chip data using t-test 
+Screening differentially expressed gene from gene chip data using t-test 
 
-# Using scipy&pandas 
+Using scipy & pandas 
